@@ -1,0 +1,15 @@
+<h1><%= @restaurant %></h1>
+
+<p><%= @phone %></p>
+
+<% @menu_hash.each do |section| %>
+<h2><%= section['header'] %></h2>
+	<% items = section['items'] %>
+	<ul>
+		<% items.each do |item| %>
+		<li>
+			<%= "#{item['id']}: #{item['name']} - #{item['price']}" %>
+		</li>
+		<% end %>
+	</ul>
+<% end %>
