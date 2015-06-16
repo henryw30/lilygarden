@@ -1,5 +1,7 @@
 class WelcomeController < ApplicationController
 
+#comment
+
 	def index
 		read_menu
 		@restaurant = @json_hash['restaurant']
