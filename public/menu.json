@@ -44,14 +44,14 @@
 				{
 					"id" : 101,
 					"name" : "Egg Rolls",
-					"price" : 3.39,
+					"price" : [3.39],
 					"spicy" : 0,
 					"url" : "a"
 				},
 				{
 					"id" : 102,
 					"name" : "Crab Rangoons",
-					"price" : 5.59,
+					"price" : [5.59],
 					"spicy" : 0,
 					"url" : "a"
 				}

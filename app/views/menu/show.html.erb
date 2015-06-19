@@ -1,0 +1,24 @@
+<h3><%= @header %></h3>
+
+<table class="table table-striped">
+	<tr>
+		<th>Item</th>
+		<% if @num_sizes == 1 %>
+			<th>Price</th>
+		<% else %>
+			<th>Small</th>
+			<th>Large</th>
+		<% end %>
+	</tr>
+	<% @items_hash.each do |item| %>
+	<tr>
+		<td><%= item['name']%></td>
+		<% if @num_sizes == 1 %>
+			<td><%= number_to_currency(item['price'][0]) %></td>
+		<% else %>
+			<td><%= number_to_currency(item['price'][0]) %></td>
+			<td><%= number_to_currency(item['price'][1]) %></td>
+		<% end %>
+	</tr>
+	<% end %>
+</table>

@@ -15,15 +15,17 @@
 						<a href = "#" class ="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup = "true" aria-expanded = "false">Menu <span class="caret"></span>
 						</a>
 						<ul class="dropdown-menu">
+							<% id_counter = 0 %>
 							<% @menu_hash.each do |section| %>
 								<li>
-									<%= section['header']%>
+									<%= link_to("#{section['header']}", {:controller => 'menu', :action => 'show', :id => id_counter}) %>
 								</li>
-							<%end%>
+								<% id_counter += 1 %>
+							<% end %>
 						</ul>
 					</li>
 					<li>
-						<a href"#"><%= @restaurant_name%></a>
+						<%= link_to("#{@restaurant_name}", :root) %>
 					</li>
 					<li>
 						<%=@phone%>
