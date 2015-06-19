@@ -1,6 +1,6 @@
 class WelcomeController < ApplicationController
 
-#comment
+	layout 'application'
 
 	def index
 		read_menu
