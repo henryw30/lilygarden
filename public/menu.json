@@ -9,7 +9,7 @@
 	"phone" : "(847) 658-1250",
 	"hours" : {
 		"sunday" : {
-			"start" : "12 Noon",
+			"start" : "12:00 PM",
 			"end" : "9:15 PM"
 		},
 		"monday" : {

@@ -34,23 +34,93 @@
 	</a>
 </div>
 <br>
-<div ><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2956.775966456881!2d-88.3270867!3d42.176473500000014!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x880f1279bafaed6d%3A0xfc66de5958306913!2s2106+W+Algonquin+Rd%2C+Lake+in+the+Hills%2C+IL+60156!5e0!3m2!1sen!2sus!4v1434668931004" width="572" height="400" frameborder="0" style="border:0"></iframe> 
-</div>
-</br>
-<div>
-	<h1><%= @restaurant %></h1>
+<div class="container">
+	<div class="col-xs-6"><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2956.775966456881!2d-88.3270867!3d42.176473500000014!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x880f1279bafaed6d%3A0xfc66de5958306913!2s2106+W+Algonquin+Rd%2C+Lake+in+the+Hills%2C+IL+60156!5e0!3m2!1sen!2sus!4v1434668931004" width="572" height="480" frameborder="0" style="border:0"></iframe> 
+	</div>
+	<div class="col-xs-6">
+		<h1 class="text-center"><%= @restaurant %></h1>
+		<h3 class="text-center"><%= simple_format("#{@address['street']}\n#{@address['city']}, #{@address['state']} #{@address['zip']}")%></h3>
+		<h3 class="text-center"><%= @phone %></h3><br>
 
-	<p><%= @phone %></p>
-
-	<% @menu_hash.each do |section| %>
-	<h2><%= section['header'] %></h2>
-		<% items = section['items'] %>
-		<ul>
-			<% items.each do |item| %>
-			<li>
-				<%= "#{item['id']}: #{item['name']} - #{item['price']}" %>
-			</li>
-			<% end %>
-		</ul>
-	<% end %>
+		<table class="table text-center">
+			<tr>
+				<td>
+					Sunday
+				</td>
+				<td>
+					<%= @hours['sunday']['start']%>
+				</td>
+				<td>
+					<%= @hours['sunday']['end']%>
+				</td>
+			</tr>
+			<tr>
+				<td>
+					Monday
+				</td>
+				<td>
+					<%= @hours['monday']['start']%>
+				</td>
+				<td>
+					<%= @hours['monday']['end']%>
+				</td>
+			</tr>
+			<tr>
+				<td>
+					Tuesday
+				</td>
+				<td>
+					<%= @hours['tuesday']['start']%>
+				</td>
+				<td>
+					<%= @hours['tuesday']['end']%>
+				</td>
+			</tr>
+			<tr>
+				<td>
+					Wednesday
+				</td>
+				<td>
+					<%= @hours['wednesday']['start']%>
+				</td>
+				<td>
+					<%= @hours['wednesday']['end']%>
+				</td>
+			</tr>
+			<tr>
+				<td>
+					Thursday
+				</td>
+				<td>
+					<%= @hours['thursday']['start']%>
+				</td>
+				<td>
+					<%= @hours['thursday']['end']%>
+				</td>
+			</tr>
+			<tr>
+				<td>
+					Friday
+				</td>
+				<td>
+					<%= @hours['friday']['start']%>
+				</td>
+				<td>
+					<%= @hours['friday']['end']%>
+				</td>
+			</tr>
+			<tr>
+				<td>
+					Saturday
+				</td>
+				<td>
+					<%= @hours['saturday']['start']%>
+				</td>
+				<td>
+					<%= @hours['saturday']['end']%>
+				</td>
+			</tr>
+		</table>
+	
+	</div>
 </div>
