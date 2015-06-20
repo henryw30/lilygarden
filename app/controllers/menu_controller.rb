@@ -29,6 +29,13 @@ class MenuController < ApplicationController
 			#Determine number of sizes
 			item = @items_hash[0]
 			@num_sizes = item['price'].size
+			
+			respond_to do |format|
+			format.html #show.html.erb
+			format.json {
+				render json: @section_hash
+			}
+			end
 		end
 	end
 

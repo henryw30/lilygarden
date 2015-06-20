@@ -1,7 +1,7 @@
 <h3><%= @header %></h3>
 
-<table class="table table-striped">
-	<tr>
+<table class="table table-hover">
+	<thead>
 		<th>Item</th>
 		<% if @num_sizes == 1 %>
 			<th>Price</th>
@@ -9,10 +9,14 @@
 			<th>Small</th>
 			<th>Large</th>
 		<% end %>
-	</tr>
+	</thead>
 	<% @items_hash.each do |item| %>
 	<tr>
-		<td><%= item['name']%></td>
+		<% if item['spicy']==1 %>
+			<td> <span class="glyphicon glyphicon-fire"></span> <%= item['name']%></td>
+		<%else%>
+			<td><%= item['name']%></td>
+		<%end%>
 		<% if @num_sizes == 1 %>
 			<td><%= number_to_currency(item['price'][0]) %></td>
 		<% else %>
