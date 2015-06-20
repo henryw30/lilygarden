@@ -39,4 +39,21 @@ class MenuController < ApplicationController
 		end
 	end
 
+	def search
+		@raw_query = params[:q]
+		@query = @raw_query.downcase.gsub(",", " ").split
+
+		#Iterate through @menu_hash looking for words in @query
+		@results = Array.new
+		@menu_hash.each do |section|
+			items_hash = section['items']
+			items_hash.each do |item|
+				item_name = item['name'].downcase
+				if @query.any? { |word| item_name.include? word }
+					@results.push(item)
+				end
+			end
+		end
+	end
+
 end
