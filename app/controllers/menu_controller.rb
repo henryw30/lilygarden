@@ -9,6 +9,7 @@ class MenuController < ApplicationController
 		@address = @json_hash['address']
 		@phone = @json_hash['phone']
 		@hours = @json_hash['hours']
+		@day = Time.new.wday
 		respond_to do |format|
 			format.html #index.html.erb
 			format.json {

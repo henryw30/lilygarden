@@ -43,7 +43,11 @@
 		<h3 class="text-center"><%= @phone %></h3><br>
 
 		<table class="table text-center">
-			<tr>
+			<% if @day == 0 %>
+				<tr class="active">
+			<% else %>
+				<tr>
+			<% end %>
 				<td>
 					Sunday
 				</td>
@@ -54,7 +58,11 @@
 					<%= @hours['sunday']['end']%>
 				</td>
 			</tr>
-			<tr>
+			<% if @day == 1 %>
+				<tr class="active">
+			<% else %>
+				<tr>
+			<% end %>
 				<td>
 					Monday
 				</td>
@@ -65,7 +73,11 @@
 					<%= @hours['monday']['end']%>
 				</td>
 			</tr>
-			<tr>
+			<% if @day == 2 %>
+				<tr class="active">
+			<% else %>
+				<tr>
+			<% end %>
 				<td>
 					Tuesday
 				</td>
@@ -76,7 +88,11 @@
 					<%= @hours['tuesday']['end']%>
 				</td>
 			</tr>
-			<tr>
+			<% if @day == 3 %>
+				<tr class="active">
+			<% else %>
+				<tr>
+			<% end %>
 				<td>
 					Wednesday
 				</td>
@@ -87,7 +103,11 @@
 					<%= @hours['wednesday']['end']%>
 				</td>
 			</tr>
-			<tr>
+			<% if @day == 4 %>
+				<tr class="active">
+			<% else %>
+				<tr>
+			<% end %>
 				<td>
 					Thursday
 				</td>
@@ -98,7 +118,11 @@
 					<%= @hours['thursday']['end']%>
 				</td>
 			</tr>
-			<tr>
+			<% if @day == 5 %>
+				<tr class="active">
+			<% else %>
+				<tr>
+			<% end %>
 				<td>
 					Friday
 				</td>
@@ -109,7 +133,11 @@
 					<%= @hours['friday']['end']%>
 				</td>
 			</tr>
-			<tr>
+			<% if @day == 6 %>
+				<tr class="active">
+			<% else %>
+				<tr>
+			<% end %>
 				<td>
 					Saturday
 				</td>
