@@ -30,6 +30,11 @@ class MenuController < ApplicationController
 			#Determine number of sizes
 			item = @items_hash[0]
 			@num_sizes = item['price'].size
+			@items_hash.each do|item|
+				if item['price'].size > @num_sizes
+					@num_sizes=item['price'].size
+				end
+			end
 			
 			respond_to do |format|
 			format.html #show.html.erb
