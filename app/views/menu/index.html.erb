@@ -6,23 +6,23 @@
 	</ol>
 	<div class="carousel-inner" role ="listbox">
 		<div class="item active">
-			<%= image_tag "beefandbroc.jpeg", :class=> "img-responsive center-block", :height=> "400", :width=> "720"%>
+			<%= image_tag "ss_ck.jpg", :class=> "img-responsive center-block", :width => 660%>
 			<div class="carousel-caption">
-				<h3>Beef and Broccoli </h3>
-				<p>Served with rice</p>
+				<h1><%= link_to("Lunch Specials", {:controller => "menu", :action => "show", :id => 12}, :class=>"shadow_h" ) %></h1>
+				<p class ="shadow_p">Served with barbecued pork fried rice and an egg roll. Everyday before 3:00 PM.</p>
 			</div>
 		</div>
 		<div class="item">
-			<%= image_tag "sesame.jpg", :class=> "img-responsive center-block", :height=> "400", :width=> "720"%>
+			<%= image_tag "smoothie.jpg", :class=> "img-responsive center-block", :width => 660%>
 			<div class="carousel-caption">
-				<h3>Sesame Chicken </h3>
-				<p>Served with rice</p>
+				<h1><%= link_to("Smoothies", {:controller => "menu", :action => "show", :id => 14}, :class=>"shadow_h" ) %></h1>
+				<p class ="shadow_p">Choose between banana, strawberry, watermelon, mango, pineapple, or piña colada</p>
 			</div>
 		</div><div class="item">
-			<%= image_tag "eggroll.jpg", :class=> "img-responsive center-block", :height=> "400", :width=> "720"%>
+			<%= image_tag "m_beef.jpg", :class=> "img-responsive center-block", :width => 660%>
 			<div class="carousel-caption">
-				<h3>Egg Roll </h3>
-				<p>Comes with 2 pieces</p>
+				<h1><%= link_to("Mongolian Beef", {:controller => "menu", :action => "show", :id => 4}, :class=>"shadow_h") %></h1>
+				<p class ="shadow_p">Served with rice</p>
 			</div>
 		</div>
 	</div>
