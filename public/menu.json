@@ -334,6 +334,26 @@
 					"spicy":0,
 					"notes": "",
 					"url": "notfound.jpg" 
+				},
+				{
+					"id":209,
+					"name": "Plain Fried Rice",
+					"price": [
+						4.55, 7.05
+					],
+					"spicy":0,
+					"notes": "",
+					"url": "notfound.jpg" 
+				},
+				{
+					"id":2040,
+					"name": "Big Shrimp Fried Rice",
+					"price": [
+						6.85, 9.65
+					],
+					"spicy":0,
+					"notes": "",
+					"url": "notfound.jpg" 
 				}
 			]
 		},
@@ -701,6 +721,16 @@
 					"url": "notfound.jpg"
 				},
 				{
+					"id":505,
+					"name": "Green Pepper with Chicken",
+					"price": [
+						6.25, 9.25
+					],
+					"spicy":0,
+					"notes": "",
+					"url": "notfound.jpg" 
+				},
+				{
 					"id": 506,
 					"name": "Hong Sue Chicken",
 					"price": [
@@ -801,6 +831,16 @@
 					"url": "notfound.jpg"
 				},
 				{
+					"id":518,
+					"name": "Chicken and Gravy",
+					"price": [
+						6.35, 9.25
+					],
+					"spicy":0,
+					"notes": "",
+					"url": "notfound.jpg" 
+				},
+				{
 					"id": 521,
 					"name": "Governor's Chicken",
 					"price": [
@@ -839,6 +879,16 @@
 					"spicy":1,
 					"notes":"",
 					"url": "notfound.jpg"
+				},
+				{
+					"id":5110,
+					"name": "Pineapple Chicken",
+					"price": [
+						6.25, 9.25
+					],
+					"spicy":0,
+					"notes": "",
+					"url": "notfound.jpg" 
 				}
 			]
 		},
@@ -914,6 +964,16 @@
 					"spicy": 0,
 					"notes":"",
 					"url": "notfound.jpg"
+				},
+				{
+					"id":6150,
+					"name": "Barbecued Pork Kow",
+					"price": [
+						7.39, 10.25
+					],
+					"spicy":0,
+					"notes": "",
+					"url": "notfound.jpg" 
 				}
 			]
 		},
@@ -949,6 +1009,16 @@
 					"spicy":1,
 					"notes":"",
 					"url":"notfound.jpg"
+				},
+				{
+					"id":704,
+					"name": "Mongolian Shrimp",
+					"price": [
+						10.45
+					],
+					"spicy":1,
+					"notes": "",
+					"url": "notfound.jpg" 
 				},
 				{
 					"id":706,
@@ -1176,6 +1246,16 @@
 					"url":"notfound.jpg"
 				},
 				{
+					"id":238,
+					"name": "Combination Chop Suey",
+					"price": [
+						6.90, 10.05
+					],
+					"spicy":0,
+					"notes": "Chicken, BBQ Pork, and Shrimp",
+					"url": "notfound.jpg" 
+				},
+				{
 					"id":2310,
 					"name":"Beef Chow Mein",
 					"price":[
@@ -1264,6 +1344,16 @@
 					"spicy":0,
 					"notes":"Comes with chicken and pork",
 					"url":"notfound.jpg"
+				},
+				{
+					"id":2380,
+					"name": "Combination Chow Mein",
+					"price": [
+						6.90, 10.05
+					],
+					"spicy":0,
+					"notes": "Chicken, BBQ Pork, and Shrimp",
+					"url": "notfound.jpg" 
 				},
 				{
 					"id":241,
@@ -1584,6 +1674,46 @@
 					"spicy":0,
 					"notes":"",
 					"url":"notfound.jpg"
+				},
+				{
+					"id":291,
+					"name":"Subgum Beef War Mein",
+					"price":[
+						8.55
+					],
+					"spicy":0,
+					"notes":"",
+					"url":"notfound.jpg"
+				},
+				{
+					"id":292,
+					"name":"Subgum Chicken War Mein",
+					"price":[
+						8.45
+					],
+					"spicy":0,
+					"notes":"",
+					"url":"notfound.jpg"
+				},
+				{
+					"id":293,
+					"name":"Subgum Pork War Mein",
+					"price":[
+						8.45
+					],
+					"spicy":0,
+					"notes":"",
+					"url":"notfound.jpg"
+				},
+				{
+					"id":294,
+					"name":"Subgum Shrimp War Mein",
+					"price":[
+						9.65
+					],
+					"spicy":0,
+					"notes":"",
+					"url":"notfound.jpg"
 				}
 			]
 		},
@@ -1666,7 +1796,7 @@
 			"header":"Special Soups",
 			"items":[
 				{
-					"id":291,
+					"id":151,
 					"name":"Beef Pho",
 					"price":[
 						7.45
@@ -1676,7 +1806,7 @@
 					"url":"notfound.jpg"
 				},
 				{
-					"id":292,
+					"id":152,
 					"name":"Chicken Pho",
 					"price":[
 						6.45
@@ -1686,7 +1816,7 @@
 					"url":"notfound.jpg"
 				},
 				{
-					"id":294,
+					"id":154,
 					"name":"Shrimp Pho",
 					"price":[
 						7.45
@@ -1696,7 +1826,7 @@
 					"url":"notfound.jpg"
 				},
 				{
-					"id":295,
+					"id":157,
 					"name":"Fish Fillet Pho",
 					"price":[
 						6.95
@@ -2052,6 +2182,26 @@
 						16.45
 					],
 					"spicy":0,
+					"notes":"",
+					"url":"notfound.jpg"
+				},
+				{
+					"id":214,
+					"name":"Moo Shu Vegetable",
+					"price":[
+						9.55
+					],
+					"spicy":0,
+					"notes":"",
+					"url":"notfound.jpg"
+				},
+				{
+					"id":800,
+					"name":"Kung Bao Combination",
+					"price":[
+						10.70
+					],
+					"spicy":1,
 					"notes":"",
 					"url":"notfound.jpg"
 				}
