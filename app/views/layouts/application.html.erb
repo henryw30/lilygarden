@@ -31,7 +31,13 @@
 				<%= form_tag("/menu/search", method: "get", :class => "navbar-form navbar-right") do %>
 					<%= text_field_tag(:q, nil, :class => 'form-control', :placeholder => 'Search') %>
 					<%= submit_tag("Search", :class => "btn btn-primary") %>
-				<% end %>
+                <% end %>
+
+                <ul class="nav navbar-nav navbar-right">
+                    <button type="button" class="btn btn-danger navbar-btn">
+                        <a href="https://www.doordash.com/store/lily-garden-restaurant-lake-in-the-hills-445451/" style="color:inherit"><%= @doordash %></a>
+                    </button>
+                </ul>
 				
 				<ul class="nav navbar-nav navbar-right">
 					<li>

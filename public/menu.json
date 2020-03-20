@@ -5,7 +5,8 @@
 		"city" : "Lake in the Hills",
 		"state" : "IL",
 		"zip" : 60156
-	},
+    },
+    "doordash" : "Delivery with Doordash!",
 	"phone" : "(847) 658-1250",
 	"hours" : {
 		"sunday" : {
