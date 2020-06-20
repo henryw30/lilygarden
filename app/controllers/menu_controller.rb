@@ -7,7 +7,6 @@ class MenuController < ApplicationController
 	def index
 		@restaurant = @json_hash['restaurant']
         @address = @json_hash['address']
-        @doordash = @json_hash['doordash']
 		@phone = @json_hash['phone']
 		@hours = @json_hash['hours']
 		@day = Time.now.in_time_zone("Central Time (US & Canada)").wday

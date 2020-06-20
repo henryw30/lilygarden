@@ -6,7 +6,6 @@
 		"state" : "IL",
 		"zip" : 60156
     },
-    "doordash" : "Delivery with Doordash!",
 	"phone" : "(847) 658-1250",
 	"hours" : {
 		"sunday" : {
@@ -1398,7 +1397,7 @@
 				},
 				{
 					"id":245,
-					"name":"Black Mushroom Tofu",
+					"name":"Vegetable Tofu",
 					"price":[
 						10.45
 					],
