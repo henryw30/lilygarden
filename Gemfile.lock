@@ -172,7 +172,7 @@ DEPENDENCIES
   jbuilder
   jquery-rails
   json (>= 2.0)
-  mini_racer
+  mini_racer (~> 0.2.9)
   pg
   rails
   sdoc
