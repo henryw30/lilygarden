@@ -259,7 +259,7 @@
 					"id":201,
 					"name": "Beef Fried Rice",
 					"price": [
-						5.35, 8.10
+						6.35, 8.50
 					],
 					"spicy":0,
 					"notes": "",
@@ -269,7 +269,7 @@
 					"id":202,
 					"name": "Chicken Fried Rice",
 					"price": [
-						5.25, 8.00
+						6.35, 8.50
 					],
 					"spicy":0,
 					"notes": "",
@@ -279,7 +279,7 @@
 					"id":203,
 					"name": "Barbecued Pork Fried Rice",
 					"price": [
-						5.25, 8.00
+						6.35, 8.50
 					],
 					"spicy":0,
 					"notes": "",
@@ -289,7 +289,7 @@
 					"id":204,
 					"name": "Shrimp Fried Rice",
 					"price": [
-						5.95, 8.50
+						6.55, 8.65
 					],
 					"spicy":0,
 					"notes": "",
@@ -299,7 +299,7 @@
 					"id":205,
 					"name": "Mushroom Fried Rice",
 					"price": [
-						5.25, 8.00
+						6.35, 8.50
 					],
 					"spicy":0,
 					"notes": "This dish contains no meat",
@@ -309,7 +309,7 @@
 					"id":206,
 					"name": "Vegetable Fried Rice",
 					"price": [
-						5.25, 8.00
+						6.35, 8.50
 					],
 					"spicy":0,
 					"notes": "This dish contains no meat",
@@ -319,7 +319,7 @@
 					"id":207,
 					"name": "Lily Special Fried Rice",
 					"price": [
-						6.05, 8.70
+						7.05, 9.10
 					],
 					"spicy":0,
 					"notes": "Comes with Barbecued Pork, Chicken, Shrimp, and Mushrooms",
@@ -329,7 +329,7 @@
 					"id":208,
 					"name": "Ham Fried Rice",
 					"price": [
-						5.95, 8.60
+						6.95, 8.65
 					],
 					"spicy":0,
 					"notes": "",
@@ -339,7 +339,7 @@
 					"id":209,
 					"name": "Plain Fried Rice",
 					"price": [
-						5.05, 7.80
+						6.05, 7.80
 					],
 					"spicy":0,
 					"notes": "",
@@ -349,7 +349,7 @@
 					"id":2040,
 					"name": "Big Shrimp Fried Rice",
 					"price": [
-						7.35, 10.40
+						8.35, 11.40
 					],
 					"spicy":0,
 					"notes": "",
@@ -364,7 +364,7 @@
 					"id" : 221,
 					"name": "Beef Egg Foo Young",
 					"price" : [
-						5.30,8.25
+						6.35, 8.75
 					],
 					"spicy":0,
 					"notes":"",
@@ -374,7 +374,7 @@
 					"id" : 222,
 					"name": "Chicken Egg Foo Young",
 					"price" : [
-						5.20,8.15
+						6.35, 8.75
 					],
 					"spicy":0,
 					"notes":"",
@@ -384,7 +384,7 @@
 					"id" : 223,
 					"name": "Barbecued Pork Egg Foo Young",
 					"price" : [
-						5.20,8.15
+						6.35, 8.75
 					],
 					"spicy":0,
 					"notes":"",
@@ -394,7 +394,7 @@
 					"id" : 224,
 					"name": "Shrimp Egg Foo Young",
 					"price" : [
-						5.90,8.65
+						6.95, 8.85
 					],
 					"spicy":0,
 					"notes":"",
@@ -404,7 +404,7 @@
 					"id" : 225,
 					"name": "Mushroom Egg Foo Young",
 					"price" : [
-						5.20,8.15
+						6.35, 8.75
 					],
 					"spicy":0,
 					"notes":"This dish contains no meat",
@@ -414,7 +414,7 @@
 					"id" : 226,
 					"name": "Vegetable Egg Foo Young",
 					"price" : [
-						5.20,8.15
+						6.35, 8.75
 					],
 					"spicy":0,
 					"notes":"This dish contains no meat",
@@ -424,7 +424,7 @@
 					"id" : 227,
 					"name": "Lily Special Egg Foo Young",
 					"price" : [
-						6.00,8.85
+						7.05, 9.10
 					],
 					"spicy":0,
 					"notes":"Comes with Barbecued Pork, Chicken, Shrimp, and Mushrooms",
@@ -434,7 +434,7 @@
 					"id" : 228,
 					"name": "Ham Egg Foo Young",
 					"price" : [
-						5.90,8.70
+						6.95, 9.10
 					],
 					"spicy":0,
 					"notes":"",
@@ -449,7 +449,7 @@
 					"id" : 301,
 					"name" : "Kung Bao Beef",
 					"price" : [
-						7.95,11.45
+						8.55, 12.15
 					],
 					"spicy" : 1,
 					"notes":"",
@@ -459,7 +459,7 @@
 					"id": 303,
 					"name": "Sesame Beef",
 					"price" : [
-						9.35, 12.50
+						9.35, 12.95
 					],
 					"spicy": 1,
 					"notes": "",
@@ -469,7 +469,7 @@
 					"id": 304,
 					"name": "Mongolian Beef",
 					"price" : [
-						7.95, 11.45
+						8.55, 12.15
 					],
 					"spicy": 1,
 					"notes": "",
@@ -479,7 +479,7 @@
 					"id": 305,
 					"name": "Green Pepper with Beef",
 					"price" : [
-						7.55, 11.15
+						8.45, 11.95
 					],
 					"spicy": 0,
 					"notes": "",
@@ -489,7 +489,7 @@
 					"id": 307,
 					"name": "Satay Beef",
 					"price" : [
-						7.95, 11.45
+						8.55, 12.15
 					],
 					"spicy": 1,
 					"notes": "",
@@ -499,7 +499,7 @@
 					"id": 308,
 					"name": "Beef with Broccoli",
 					"price" : [
-						7.95, 11.15
+						8.45, 11.95
 					],
 					"spicy": 0,
 					"notes": "",
@@ -509,7 +509,7 @@
 					"id": 309,
 					"name": "Peapod Beef",
 					"price" : [
-						7.95, 11.45
+						8.45, 11.95
 					],
 					"spicy": 0,
 					"notes": "",
@@ -519,7 +519,7 @@
 					"id": 310,
 					"name": "Curry Beef",
 					"price" : [
-						7.95, 11.45
+						8.55, 12.15
 					],
 					"spicy": 1,
 					"notes": "",
@@ -529,7 +529,7 @@
 					"id": 312,
 					"name": "Beef with Almonds",
 					"price" : [
-						7.55, 11.15
+						8.45, 11.95
 					],
 					"spicy": 0,
 					"notes": "",
@@ -539,7 +539,7 @@
 					"id": 313,
 					"name": "Beef with Garlic Sauce",
 					"price" : [
-						7.55, 11.15
+						8.45, 11.95
 					],
 					"spicy": 0,
 					"notes": "",
@@ -549,7 +549,7 @@
 					"id": 314,
 					"name": "Moo Shu Beef",
 					"price" : [
-						11.45
+						12.15
 					],
 					"spicy": 0,
 					"notes": "",
@@ -559,7 +559,7 @@
 					"id": 315,
 					"name": "Beef Kow",
 					"price" : [
-						7.65, 11.25
+						8.45, 11.95
 					],
 					"spicy": 0,
 					"notes": "",
@@ -569,7 +569,7 @@
 					"id": 316,
 					"name": "Tofu Beef",
 					"price" : [
-						11.90
+						12.50
 					],
 					"spicy": 0,
 					"notes": "",
@@ -579,7 +579,7 @@
 					"id": 317,
 					"name": "Oyster Tender Beef",
 					"price" : [
-						7.55, 11.15
+						8.45, 11.95
 					],
 					"spicy": 0,
 					"notes": "",
@@ -589,7 +589,7 @@
 					"id": 318,
 					"name": "Beef and Gravy",
 					"price" : [
-						7.75, 11.35
+						8.45, 11.95
 					],
 					"spicy": 0,
 					"notes": "",
@@ -599,7 +599,7 @@
 					"id": 319,
 					"name": "Tomato with Beef",
 					"price" : [
-						7.55, 11.15
+						8.45, 11.95
 					],
 					"spicy": 0,
 					"notes": "",
@@ -609,7 +609,7 @@
 					"id": 320,
 					"name": "Tomato Pepper with Beef",
 					"price" : [
-						7.55, 11.15
+						8.45, 11.95
 					],
 					"spicy": 0,
 					"notes": "",
@@ -619,7 +619,7 @@
 					"id": 324,
 					"name": "Orange Blossom Beef",
 					"price" : [
-						9.35, 12.50
+						9.35, 12.95
 					],
 					"spicy": 1,
 					"notes": "",
@@ -629,7 +629,7 @@
 					"id": 405,
 					"name": "Green Pepper with Tenderloin Steak",
 					"price" : [
-						9.05, 12.45
+						9.75, 12.95
 					],
 					"spicy": 0,
 					"notes": "",
@@ -639,7 +639,7 @@
 					"id": 409,
 					"name": "Peapod Steak",
 					"price" : [
-						9.05, 12.45
+						9.75, 12.95
 					],
 					"spicy": 0,
 					"notes": "",
@@ -649,7 +649,7 @@
 					"id": 415,
 					"name": "Steak Kow",
 					"price" : [
-						9.05, 12.45
+						9.75, 12.95
 					],
 					"spicy": 0,
 					"notes": "",
@@ -659,7 +659,7 @@
 					"id": 419,
 					"name": "Tomato with Tenderloin Steak",
 					"price" : [
-						9.05, 12.45
+						9.75, 12.95
 					],
 					"spicy": 0,
 					"notes": "",
@@ -669,7 +669,7 @@
 					"id": 420,
 					"name": "Tomato Pepper with Tenderloin Steak",
 					"price" : [
-						9.05, 12.45
+						9.75, 12.95
 					],
 					"spicy": 0,
 					"notes": "",
@@ -684,7 +684,7 @@
 					"id": 501,
 					"name": "Kung Bao Chicken",
 					"price": [
-						7.75,11.15
+						8.55,11.95
 					],
 					"spicy":1,
 					"notes":"",
@@ -694,7 +694,7 @@
 					"id": 502,
 					"name": "Chicken with Cashews",
 					"price": [
-						7.75,11.15
+						8.55,11.95
 					],
 					"spicy":1,
 					"notes":"",
@@ -704,7 +704,7 @@
 					"id": 503,
 					"name": "Sesame Chicken",
 					"price": [
-						9.25,12.05
+						9.25,12.55
 					],
 					"spicy":1,
 					"notes":"",
@@ -714,7 +714,7 @@
 					"id": 504,
 					"name": "Mongolian Chicken",
 					"price": [
-						7.65,11.15
+						8.55,11.95
 					],
 					"spicy":1,
 					"notes":"",
@@ -724,7 +724,7 @@
 					"id":505,
 					"name": "Green Pepper with Chicken",
 					"price": [
-						7.25, 10.75
+						7.95, 10.95
 					],
 					"spicy":0,
 					"notes": "",
@@ -734,7 +734,7 @@
 					"id": 506,
 					"name": "Hong Sue Chicken",
 					"price": [
-						7.25,10.75
+						7.95,10.95
 					],
 					"spicy":0,
 					"notes":"",
@@ -744,7 +744,7 @@
 					"id": 508,
 					"name": "Chicken with Broccoli",
 					"price": [
-						7.65,10.85
+						7.95,10.95
 					],
 					"spicy":0,
 					"notes":"",
@@ -754,7 +754,7 @@
 					"id": 509,
 					"name": "Peapod Chicken",
 					"price": [
-						7.75,11.15
+						7.95,11.95
 					],
 					"spicy":0,
 					"notes":"",
@@ -764,7 +764,7 @@
 					"id": 510,
 					"name": "Curry Chicken",
 					"price": [
-						7.75,11.15
+						8.55,11.95
 					],
 					"spicy":1,
 					"notes":"",
@@ -774,7 +774,7 @@
 					"id": 511,
 					"name": "Sweet and Sour Chicken",
 					"price": [
-						7.25,10.75
+						8.55,10.95
 					],
 					"spicy":0,
 					"notes":"",
@@ -784,7 +784,7 @@
 					"id": 512,
 					"name": "Chicken with Almonds",
 					"price": [
-						7.25,10.75
+						7.95,10.95
 					],
 					"spicy":0,
 					"notes":"",
@@ -794,7 +794,7 @@
 					"id": 513,
 					"name": "Chicken with Garlic Sauce",
 					"price": [
-						7.25,10.75
+						7.95,10.95
 					],
 					"spicy":0,
 					"notes":"",
@@ -804,7 +804,7 @@
 					"id": 514,
 					"name": "Moo Shu Chicken",
 					"price": [
-						11.05
+						11.95
 					],
 					"spicy":0,
 					"notes":"",
@@ -814,7 +814,7 @@
 					"id": 515,
 					"name": "Chicken Kow",
 					"price": [
-						7.35,10.75
+						8.45,10.95
 					],
 					"spicy":0,
 					"notes":"",
@@ -824,7 +824,7 @@
 					"id": 516,
 					"name": "Tofu Chicken",
 					"price": [
-						11.75
+						12.55
 					],
 					"spicy":0,
 					"notes":"",
@@ -834,7 +834,7 @@
 					"id":518,
 					"name": "Chicken and Gravy",
 					"price": [
-						7.35, 10.75
+						7.95, 10.95
 					],
 					"spicy":0,
 					"notes": "",
@@ -844,7 +844,7 @@
 					"id": 521,
 					"name": "Governor's Chicken",
 					"price": [
-						9.25, 12.05
+						9.25, 12.55
 					],
 					"spicy":1,
 					"notes":"",
@@ -854,7 +854,7 @@
 					"id": 522,
 					"name": "Hot Gai Ding",
 					"price": [
-						7.75,11.15
+						8.55,11.95
 					],
 					"spicy":1,
 					"notes":"",
@@ -864,7 +864,7 @@
 					"id": 523,
 					"name": "Lemon Chicken",
 					"price": [
-						9.75,12.05
+						9.25,12.55
 					],
 					"spicy":0,
 					"notes":"",
@@ -874,7 +874,7 @@
 					"id": 524,
 					"name": "Orange Blossom Chicken",
 					"price": [
-						9.75,12.05
+						9.25,12.55
 					],
 					"spicy":1,
 					"notes":"",
@@ -884,7 +884,7 @@
 					"id":5110,
 					"name": "Pineapple Chicken",
 					"price": [
-						7.25, 10.75
+						7.95, 10.95
 					],
 					"spicy":0,
 					"notes": "",
@@ -899,7 +899,7 @@
 					"id": 601,
 					"name": "Kung Bao Pork",
 					"price": [
-						7.75, 11.15
+						8.55, 11.95
 					],
 					"spicy": 1,
 					"notes":"",
@@ -909,7 +909,7 @@
 					"id": 602,
 					"name": "Pork with Cashews",
 					"price": [
-						7.75, 11.15
+						8.55, 11.95
 					],
 					"spicy": 1,
 					"notes":"",
@@ -919,7 +919,7 @@
 					"id": 603,
 					"name": "Sesame Pork",
 					"price": [
-						9.25, 12.05
+						9.25, 12.55
 					],
 					"spicy": 1,
 					"notes":"",
@@ -929,7 +929,7 @@
 					"id": 606,
 					"name": "Hong Sue Pork",
 					"price": [
-						7.25, 10.75
+						7.95, 10.95
 					],
 					"spicy": 0,
 					"notes":"",
@@ -939,7 +939,7 @@
 					"id": 611,
 					"name": "Sweet and Sour Pork",
 					"price": [
-						7.25, 10.75
+						7.95, 10.95
 					],
 					"spicy": 0,
 					"notes":"",
@@ -949,7 +949,7 @@
 					"id": 614,
 					"name": "Moo Shu Pork",
 					"price": [
-						11.05
+						11.95
 					],
 					"spicy": 0,
 					"notes":"",
@@ -959,7 +959,7 @@
 					"id": 616,
 					"name": "Tofu Pork",
 					"price": [
-						11.75
+						12.55
 					],
 					"spicy": 0,
 					"notes":"",
@@ -969,7 +969,7 @@
 					"id":6150,
 					"name": "Barbecued Pork Kow",
 					"price": [
-						8.39, 11.75
+						8.55, 12.15
 					],
 					"spicy":0,
 					"notes": "",
@@ -984,7 +984,7 @@
 					"id":701,
 					"name":"Kung Bao Shrimp",
 					"price":[
-						8.25, 11.70
+						8.85, 13.25
 					],
 					"spicy":1,
 					"notes":"",
@@ -994,7 +994,7 @@
 					"id":702,
 					"name":"Shrimp with Cashews",
 					"price":[
-						8.25, 11.70
+						8.85, 13.25
 					],
 					"spicy":1,
 					"notes":"",
@@ -1004,7 +1004,7 @@
 					"id":703,
 					"name":"Sesame Shrimp",
 					"price":[
-						12.80
+						13.95
 					],
 					"spicy":1,
 					"notes":"",
@@ -1014,7 +1014,7 @@
 					"id":704,
 					"name": "Mongolian Shrimp",
 					"price": [
-						11.70
+						13.25
 					],
 					"spicy":1,
 					"notes": "",
@@ -1024,7 +1024,7 @@
 					"id":706,
 					"name":"Hong Sue Shrimp",
 					"price":[
-						8.19, 11.40
+						8.75, 12.95
 					],
 					"spicy":0,
 					"notes":"",
@@ -1034,7 +1034,7 @@
 					"id":708,
 					"name":"Shrimp with Broccoli",
 					"price":[
-						8.19, 11.40
+						8.75, 12.95
 					],
 					"spicy":0,
 					"notes":"",
@@ -1044,7 +1044,7 @@
 					"id":709,
 					"name":"Peapod Shrimp",
 					"price":[
-						8.25, 11.80
+						8.75, 12.95
 					],
 					"spicy":0,
 					"notes":"",
@@ -1054,7 +1054,7 @@
 					"id":710,
 					"name":"Curry Shrimp",
 					"price":[
-						8.25, 11.70
+						8.85, 13.25
 					],
 					"spicy":1,
 					"notes":"",
@@ -1064,7 +1064,7 @@
 					"id":711,
 					"name":"Sweet and Sour Shrimp",
 					"price":[
-						8.19, 11.40
+						8.75, 12.95
 					],
 					"spicy":0,
 					"notes":"",
@@ -1074,7 +1074,7 @@
 					"id":712,
 					"name":"Shrimp with Almonds",
 					"price":[
-						8.19, 11.40
+						8.75, 12.95
 					],
 					"spicy":0,
 					"notes":"",
@@ -1084,7 +1084,7 @@
 					"id":713,
 					"name":"Shrimp with Garlic Sauce",
 					"price":[
-						8.25, 11.60
+						8.75, 12.95
 					],
 					"spicy":0,
 					"notes":"",
@@ -1094,7 +1094,7 @@
 					"id":714,
 					"name":"Moo Shu Shrimp",
 					"price":[
-						11.40
+						13.25
 					],
 					"spicy":0,
 					"notes":"",
@@ -1104,7 +1104,7 @@
 					"id":715,
 					"name":"Shrimp Kow",
 					"price":[
-						8.19, 11.50
+						8.75, 12.95
 					],
 					"spicy":0,
 					"notes":"",
@@ -1114,7 +1114,7 @@
 					"id":716,
 					"name":"Tofu Shrimp",
 					"price":[
-						12.15
+						13.25
 					],
 					"spicy":0,
 					"notes":"",
@@ -1124,7 +1124,7 @@
 					"id":725,
 					"name":"Shrimp with Lobster Sauce",
 					"price":[
-						8.25, 11.60
+						8.85, 13.25
 					],
 					"spicy":0,
 					"notes":"",
@@ -1134,7 +1134,7 @@
 					"id":726,
 					"name":"Seafood Combination",
 					"price":[
-						14.95
+						15.95
 					],
 					"spicy":0,
 					"notes":"",
@@ -1144,7 +1144,7 @@
 					"id":771,
 					"name":"Fish Fillet with Garlic Sauce",
 					"price":[
-						8.35, 12.40
+						9.25, 13.80
 					],
 					"spicy":0,
 					"notes":"",
@@ -1159,7 +1159,7 @@
 					"id":231,
 					"name":"Beef Chop Suey",
 					"price":[
-						6.65,9.75
+						7.95,10.45
 					],
 					"spicy":0,
 					"notes":"",
@@ -1169,7 +1169,7 @@
 					"id":232,
 					"name":"Chicken Chop Suey",
 					"price":[
-						6.55,9.70
+						7.95,10.45
 					],
 					"spicy":0,
 					"notes":"",
@@ -1179,7 +1179,7 @@
 					"id":233,
 					"name":"Pork Chop Suey",
 					"price":[
-						6.55,9.70
+						7.95,10.45
 					],
 					"spicy":0,
 					"notes":"",
@@ -1189,7 +1189,7 @@
 					"id":234,
 					"name":"Shrimp Chop Suey",
 					"price":[
-						7.65,10.90
+						8.35,10.90
 					],
 					"spicy":0,
 					"notes":"",
@@ -1199,7 +1199,7 @@
 					"id":235,
 					"name":"Beef Mushroom Chop Suey",
 					"price":[
-						7.15,10.10
+						8.35,10.90
 					],
 					"spicy":0,
 					"notes":"",
@@ -1209,7 +1209,7 @@
 					"id":2350,
 					"name":"Chicken Mushroom Chop Suey",
 					"price":[
-						7.15,10.10
+						8.35,10.90
 					],
 					"spicy":0,
 					"notes":"",
@@ -1219,7 +1219,7 @@
 					"id":2351,
 					"name":"Pork Mushroom Chop Suey",
 					"price":[
-						7.15,10.10
+						8.35,10.90
 					],
 					"spicy":0,
 					"notes":"",
@@ -1239,7 +1239,7 @@
 					"id":237,
 					"name":"Lily Special Chop Suey",
 					"price":[
-						6.85,9.80
+						8.35,10.80
 					],
 					"spicy":0,
 					"notes":"Comes with chicken and pork",
@@ -1249,7 +1249,7 @@
 					"id":238,
 					"name": "Combination Chop Suey",
 					"price": [
-						7.70, 11.30
+						8.95, 11.30
 					],
 					"spicy":0,
 					"notes": "Chicken, BBQ Pork, and Shrimp",
@@ -1259,7 +1259,7 @@
 					"id":2310,
 					"name":"Beef Chow Mein",
 					"price":[
-						6.65,9.75
+						7.95,10.45
 					],
 					"spicy":0,
 					"notes":"",
@@ -1269,7 +1269,7 @@
 					"id":2320,
 					"name":"Chicken Chow Mein",
 					"price":[
-						6.55,9.70
+						7.95,10.45
 					],
 					"spicy":0,
 					"notes":"",
@@ -1279,7 +1279,7 @@
 					"id":2330,
 					"name":"Pork Chow Mein",
 					"price":[
-						6.55,9.70
+						7.95,10.45
 					],
 					"spicy":0,
 					"notes":"",
@@ -1289,7 +1289,7 @@
 					"id":2340,
 					"name":"Shrimp Chow Mein",
 					"price":[
-						7.65,10.90
+						8.35,10.90
 					],
 					"spicy":0,
 					"notes":"",
@@ -1299,7 +1299,7 @@
 					"id":2352,
 					"name":"Beef Mushroom Chow Mein",
 					"price":[
-						7.15,10.10
+						8.35,10.90
 					],
 					"spicy":0,
 					"notes":"",
@@ -1309,7 +1309,7 @@
 					"id":2353,
 					"name":"Chicken Mushroom Chow Mein",
 					"price":[
-						7.15,10.10
+						8.35,10.90
 					],
 					"spicy":0,
 					"notes":"",
@@ -1319,7 +1319,7 @@
 					"id":2354,
 					"name":"Pork Mushroom Chow Mein",
 					"price":[
-						7.15,10.10
+						8.35,10.90
 					],
 					"spicy":0,
 					"notes":"",
@@ -1339,7 +1339,7 @@
 					"id":2370,
 					"name":"Lily Special Chow Mein",
 					"price":[
-						6.85,9.80
+						8.35,10.80
 					],
 					"spicy":0,
 					"notes":"Comes with chicken and pork",
@@ -1349,7 +1349,7 @@
 					"id":2380,
 					"name": "Combination Chow Mein",
 					"price": [
-						7.70, 11.30
+						8.95, 11.30
 					],
 					"spicy":0,
 					"notes": "Chicken, BBQ Pork, and Shrimp",
@@ -1359,7 +1359,7 @@
 					"id":241,
 					"name":"Subgum Beef",
 					"price":[
-						6.65,9.75
+						7.95,10.45
 					],
 					"spicy":0,
 					"notes":"",
@@ -1369,7 +1369,7 @@
 					"id":242,
 					"name":"Subgum Chicken",
 					"price":[
-						6.55,9.70
+						7.95,10.45
 					],
 					"spicy":0,
 					"notes":"",
@@ -1379,7 +1379,7 @@
 					"id":243,
 					"name":"Subgum Pork",
 					"price":[
-						6.55,9.70
+						7.95,10.45
 					],
 					"spicy":0,
 					"notes":"",
@@ -1389,7 +1389,7 @@
 					"id":244,
 					"name":"Subgum Shrimp",
 					"price":[
-						7.55,10.90
+						8.35,10.90
 					],
 					"spicy":0,
 					"notes":"",
@@ -1409,7 +1409,7 @@
 					"id":246,
 					"name":"Vegetable Delight",
 					"price":[
-						6.55,9.40
+						6.55,9.50
 					],
 					"spicy":0,
 					"notes":"This dish contains no meat",
@@ -1429,7 +1429,7 @@
 					"id":247,
 					"name":"Subgum Combination",
 					"price":[
-						7.70,11.30
+						8.95,11.30
 					],
 					"spicy":0,
 					"notes":"Comes with barbecued pork, chicken, and shrimp",
@@ -1444,7 +1444,7 @@
 					"id":251,
 					"name":"Beef Cantonese",
 					"price":[
-						10.70
+						11.45
 					],
 					"spicy":0,
 					"notes":"",
@@ -1454,7 +1454,7 @@
 					"id":252,
 					"name":"Chicken Cantonese",
 					"price":[
-						10.55
+						11.45
 					],
 					"spicy":0,
 					"notes":"",
@@ -1464,7 +1464,7 @@
 					"id":253,
 					"name":"Pork Cantonese",
 					"price":[
-						10.55
+						11.45
 					],
 					"spicy":0,
 					"notes":"",
@@ -1474,7 +1474,7 @@
 					"id":254,
 					"name":"Shrimp Cantonese",
 					"price":[
-						11.50
+						11.75
 					],
 					"spicy":0,
 					"notes":"",
@@ -1484,7 +1484,7 @@
 					"id":257,
 					"name":"Combination Cantonese",
 					"price":[
-						11.75
+						11.95
 					],
 					"spicy":0,
 					"notes":"Comes with barbecued pork, chicken, and shrimp",
@@ -1494,7 +1494,7 @@
 					"id":258,
 					"name":"Jar Chong Beef",
 					"price":[
-						11.65
+						12.55
 					],
 					"spicy":1,
 					"notes":"",
@@ -1504,7 +1504,7 @@
 					"id":2580,
 					"name":"Jar Chong Chicken",
 					"price":[
-						11.65
+						12.55
 					],
 					"spicy":1,
 					"notes":"",
@@ -1514,7 +1514,7 @@
 					"id":2581,
 					"name":"Jar Chong Pork",
 					"price":[
-						11.65
+						12.55
 					],
 					"spicy":1,
 					"notes":"",
@@ -1524,7 +1524,7 @@
 					"id":261,
 					"name":"Subgum Beef Cantonese",
 					"price":[
-						10.75
+						11.45
 					],
 					"spicy":0,
 					"notes":"",
@@ -1534,7 +1534,7 @@
 					"id":262,
 					"name":"Subgum Chicken Cantonese",
 					"price":[
-						10.60
+						11.45
 					],
 					"spicy":0,
 					"notes":"",
@@ -1544,7 +1544,7 @@
 					"id":263,
 					"name":"Subgum Pork Cantonese",
 					"price":[
-						10.60
+						11.45
 					],
 					"spicy":0,
 					"notes":"",
@@ -1554,7 +1554,7 @@
 					"id":264,
 					"name":"Subgum Shrimp Cantonese",
 					"price":[
-						11.55
+						11.75
 					],
 					"spicy":0,
 					"notes":"",
@@ -1564,7 +1564,7 @@
 					"id":267,
 					"name":"Subgum Combination Cantonese",
 					"price":[
-						11.75
+						11.95
 					],
 					"spicy":0,
 					"notes":"Comes with barbecued pork, chicken, and shrimp",
@@ -1574,7 +1574,7 @@
 					"id":271,
 					"name":"Beef Lo Mein",
 					"price":[
-						10.70
+						11.45
 					],
 					"spicy":0,
 					"notes":"",
@@ -1584,7 +1584,7 @@
 					"id":272,
 					"name":"Chicken Lo Mein",
 					"price":[
-						10.60
+						11.45
 					],
 					"spicy":0,
 					"notes":"",
@@ -1594,7 +1594,7 @@
 					"id":273,
 					"name":"Barbecued Pork Lo Mein",
 					"price":[
-						10.60
+						11.45
 					],
 					"spicy":0,
 					"notes":"",
@@ -1604,7 +1604,7 @@
 					"id":274,
 					"name":"Shrimp Lo Mein",
 					"price":[
-						11.40
+						11.75
 					],
 					"spicy":0,
 					"notes":"",
@@ -1614,7 +1614,7 @@
 					"id":277,
 					"name":"Combination Lo Mein",
 					"price":[
-						11.75
+						11.95
 					],
 					"spicy":0,
 					"notes":"Comes with barbecued pork, chicken, and shrimp",
@@ -1624,7 +1624,7 @@
 					"id":276,
 					"name":"Vegetable Lo Mein",
 					"price":[
-						10.55
+						11.25
 					],
 					"spicy":0,
 					"notes":"This dish contains no meat",
@@ -1639,7 +1639,7 @@
 					"id":281,
 					"name":"Beef War Mein",
 					"price":[
-						9.80
+						10.45
 					],
 					"spicy":0,
 					"notes":"",
@@ -1649,7 +1649,7 @@
 					"id":282,
 					"name":"Chicken War Mein",
 					"price":[
-						9.70
+						10.45
 					],
 					"spicy":0,
 					"notes":"",
@@ -1659,7 +1659,7 @@
 					"id":283,
 					"name":"Pork War Mein",
 					"price":[
-						9.70
+						10.45
 					],
 					"spicy":0,
 					"notes":"",
@@ -1689,7 +1689,7 @@
 					"id":291,
 					"name":"Subgum Beef War Mein",
 					"price":[
-						9.80
+						10.45
 					],
 					"spicy":0,
 					"notes":"",
@@ -1699,7 +1699,7 @@
 					"id":292,
 					"name":"Subgum Chicken War Mein",
 					"price":[
-						9.70
+						10.45
 					],
 					"spicy":0,
 					"notes":"",
@@ -1709,7 +1709,7 @@
 					"id":293,
 					"name":"Subgum Pork War Mein",
 					"price":[
-						9.70
+						10.45
 					],
 					"spicy":0,
 					"notes":"",
@@ -1864,7 +1864,7 @@
 					"id":"L1",
 					"name":"Beef Chop Suey",
 					"price":[
-						7.55
+						7.95
 					],
 					"spicy":0,
 					"notes":"",
@@ -1874,7 +1874,7 @@
 					"id":"L2",
 					"name":"Chicken Chow Mein",
 					"price":[
-						7.10
+						7.45
 					],
 					"spicy":0,
 					"notes":"",
@@ -1884,7 +1884,7 @@
 					"id":"L3",
 					"name":"Barbecued Pork Egg Foo Young and Fried Shrimp",
 					"price":[
-						7.10
+						7.95
 					],
 					"spicy":0,
 					"notes":"",
@@ -1894,7 +1894,7 @@
 					"id":"L4",
 					"name":"Sweet and Sour Pork",
 					"price":[
-						7.10
+						7.45
 					],
 					"spicy":0,
 					"notes":"",
@@ -1904,7 +1904,7 @@
 					"id":"L5",
 					"name":"Green Pepper Beef",
 					"price":[
-						7.55
+						7.95
 					],
 					"spicy":0,
 					"notes":"",
@@ -1914,7 +1914,7 @@
 					"id":"L6",
 					"name":"Hong Sue Chicken",
 					"price":[
-						7.10
+						7.45
 					],
 					"spicy":0,
 					"notes":"",
@@ -1924,7 +1924,7 @@
 					"id":"L7",
 					"name":"Subgum Chicken",
 					"price":[
-						7.10
+						7.45
 					],
 					"spicy":0,
 					"notes":"",
@@ -1934,7 +1934,7 @@
 					"id":"L8",
 					"name":"Beef with Broccoli",
 					"price":[
-						7.55
+						7.95
 					],
 					"spicy":0,
 					"notes":"",
@@ -1944,7 +1944,7 @@
 					"id":"L9",
 					"name":"Subgum Pork",
 					"price":[
-						7.10
+						7.45
 					],
 					"spicy":0,
 					"notes":"",
@@ -1954,7 +1954,7 @@
 					"id":"L10",
 					"name":"Curry Chicken",
 					"price":[
-						7.55
+						7.95
 					],
 					"spicy":1,
 					"notes":"",
@@ -1964,7 +1964,7 @@
 					"id":"L11",
 					"name":"Sweet and Sour Chicken",
 					"price":[
-						7.10
+						7.45
 					],
 					"spicy":0,
 					"notes":"",
@@ -1974,7 +1974,7 @@
 					"id":"L12",
 					"name":"Curry Beef",
 					"price":[
-						7.55
+						7.95
 					],
 					"spicy":1,
 					"notes":"",
@@ -1984,7 +1984,7 @@
 					"id":"L13",
 					"name":"Beef with Garlic Sauce",
 					"price":[
-						7.55
+						7.95
 					],
 					"spicy":0,
 					"notes":"",
@@ -2004,7 +2004,7 @@
 					"id":"A1",
 					"name":"Chicken Kow",
 					"price":[
-						7.10
+						7.65
 					],
 					"spicy":0,
 					"notes":"",
@@ -2034,7 +2034,7 @@
 					"id":"A4",
 					"name":"Vegetable Chop Suey",
 					"price":[
-						7.10
+						7.45
 					],
 					"spicy":0,
 					"notes":"",
@@ -2044,7 +2044,7 @@
 					"id":"A5",
 					"name":"Kung Bao Chicken",
 					"price":[
-						7.55
+						7.95
 					],
 					"spicy":1,
 					"notes":"",
@@ -2094,7 +2094,7 @@
 					"id":"A301",
 					"name":"Kung Bao Beef",
 					"price":[
-						8.15
+						8.35
 					],
 					"spicy":1,
 					"notes":"",
@@ -2129,7 +2129,7 @@
 					"id":802,
 					"name":"See Jee Kow",
 					"price":[
-						11.70
+						13.45
 					],
 					"spicy":0,
 					"notes":"",
@@ -2139,7 +2139,7 @@
 					"id":803,
 					"name":"Three Star Kow",
 					"price":[
-						11.70
+						13.45
 					],
 					"spicy":0,
 					"notes":"",
@@ -2149,7 +2149,7 @@
 					"id":804,
 					"name":"Four Season",
 					"price":[
-						11.70
+						13.45
 					],
 					"spicy":0,
 					"notes":"",
@@ -2159,7 +2159,7 @@
 					"id":805,
 					"name":"War Bar",
 					"price":[
-						11.70
+						13.45
 					],
 					"spicy":0,
 					"notes":"",
@@ -2169,7 +2169,7 @@
 					"id":807,
 					"name":"Hot Spicy Beef and Chicken",
 					"price":[
-						11.70
+						13.45
 					],
 					"spicy":1,
 					"notes":"",
@@ -2179,7 +2179,7 @@
 					"id":808,
 					"name":"Tofu Combination",
 					"price":[
-						12.40
+						13.95
 					],
 					"spicy":0,
 					"notes":"",
@@ -2189,7 +2189,7 @@
 					"id":809,
 					"name":"Almond Duck",
 					"price":[
-						14.05
+						16.95
 					],
 					"spicy":0,
 					"notes":"",
@@ -2219,7 +2219,7 @@
 					"id":800,
 					"name":"Kung Bao Combination",
 					"price":[
-						12.30
+						13.95
 					],
 					"spicy":1,
 					"notes":"",
@@ -2234,7 +2234,7 @@
 					"id":20001,
 					"name":"Coke",
 					"price":[
-						1.65
+						1.15
 					],
 					"spicy":0,
 					"notes":"",
@@ -2244,7 +2244,7 @@
 					"id":20002,
 					"name":"Diet Coke",
 					"price":[
-						1.65
+						1.15
 					],
 					"spicy":0,
 					"notes":"",
@@ -2254,7 +2254,7 @@
 					"id":20003,
 					"name":"Sprite",
 					"price":[
-						1.65
+						1.15
 					],
 					"spicy":0,
 					"notes":"",
@@ -2264,7 +2264,7 @@
 					"id":20004,
 					"name":"Iced Tea",
 					"price":[
-						1.65
+						1.15
 					],
 					"spicy":0,
 					"notes":"",
@@ -2274,7 +2274,7 @@
 					"id":20005,
 					"name":"Hot Tea",
 					"price":[
-						1.65
+						1.15
 					],
 					"spicy":0,
 					"notes":"",
@@ -2284,7 +2284,7 @@
 					"id":20006,
 					"name":"Strawberry Smoothie",
 					"price":[
-						3.35
+						3.55
 					],
 					"spicy":0,
 					"notes":"",
@@ -2294,7 +2294,7 @@
 					"id":20007,
 					"name":"Mango Smoothie",
 					"price":[
-						3.35
+						3.55
 					],
 					"spicy":0,
 					"notes":"",
@@ -2304,7 +2304,7 @@
 					"id":20008,
 					"name":"Banana Smoothie",
 					"price":[
-						3.35
+						3.55
 					],
 					"spicy":0,
 					"notes":"",
@@ -2314,7 +2314,7 @@
 					"id":20009,
 					"name":"Pineapple Smoothie",
 					"price":[
-						3.35
+						3.55
 					],
 					"spicy":0,
 					"notes":"",
@@ -2324,7 +2324,7 @@
 					"id":20010,
 					"name":"Watermelon Smoothie",
 					"price":[
-						3.35
+						3.55
 					],
 					"spicy":0,
 					"notes":"",
@@ -2334,7 +2334,7 @@
 					"id":20011,
 					"name":"Piña Colada Smoothie",
 					"price":[
-						3.35
+						3.55
 					],
 					"spicy":0,
 					"notes":"",
