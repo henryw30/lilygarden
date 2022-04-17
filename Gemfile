@@ -7,7 +7,7 @@ gem 'puma'
 # Use sqlite3 as the database for Active Record
 gem 'sqlite3'
 gem 'json', '>= 2.0'
-gem 'pg'
+
 # Use SCSS for stylesheets
 gem 'sass-rails'
 gem 'bootstrap-sass'
